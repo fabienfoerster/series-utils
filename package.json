@@ -1,0 +1,19 @@
+{
+  "name": "series-utils",
+  "version": "1.0.0",
+  "description": "A collection of utilities for managing your series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabienfoerster/series-utils.git"
+  },
+  "author": "Fabien Foerster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabienfoerster/series-utils/issues"
+  },
+  "homepage": "https://github.com/fabienfoerster/series-utils#readme"
+}
